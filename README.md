@@ -1,51 +1,171 @@
-Hi 👋 My name is Runesh Bhardwaj
-================================
+<div align="center">
 
-Web Developer and designer
---------------------------
+# Hi 👋 I'm Runesh Bhardwaj
 
-Great in design and integration with intuitive problem-solving skills. Proficient in Python, JAVA, and SQL. Passionate about implementing and launching new projects. Ability to translate business requisites into technical solutions. Looking to endure a career as a software engineer with a reputed firm driven by technology to enhance my skills...
+### 💻 Web Developer • Designer • AI Enthusiast
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://captanjacksparr0w.github.io/Portfolio/)
-* ✉️  You can contact me at [runeshbhardwaj09@gmail.com](mailto:runeshbhardwaj09@gmail.com)
-* 🚀  I'm currently working on [Sudoku Solver using Python](http://github.com/CaptanJackSparr0w/Sudoku_Solver)
-* 🧠  I'm learning Artificial Intelligence and Machine lerning
-* 🤝  I'm open to collaborating on Web Development, Apex application development for SQL
-* ⚡  I'm Just a Nerdy Geek or an idiot time will tell not me...
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=0891B2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Java+%7C+SQL;AI+%26+Machine+Learning+Learner;Building+Creative+and+Technical+Solutions" />
 
-<a href="https://www.twitter.com/BhardwajRunesh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/BhardwajRunesh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/CaptanJackSparr0w" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CaptanJackSparr0w?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</div>
 
-### Skills
+---
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+## 🚀 About Me
+
+Passionate developer with strong problem-solving skills and experience in designing, developing, and launching technical solutions.
+
+I enjoy building projects involving:
+
+- 🌐 Web Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🗄️ Database Systems
+- ⚡ Automation Tools
+
+Currently focused on improving my skills in AI systems and modern development technologies.
+
+---
+
+## 🌍 Portfolio & Contact
+
+- 🌍 Based in India
+- 🖥️ Portfolio: [My Portfolio](http://captanjacksparr0w.github.io/Portfolio/)
+- ✉️ Email: [runeshbhardwaj09@gmail.com](mailto:runeshbhardwaj09@gmail.com)
+
+---
+
+## 🚀 Current Project
+
+### Sudoku Solver using Python
+
+🔗 GitHub Repository:  
+[Sudoku Solver](http://github.com/CaptanJackSparr0w/Sudoku_Solver)
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+| Languages | Frontend | Backend & Database | Tools |
+|---|---|---|---|
+| Python | HTML5 | Oracle SQL | Git |
+| Java | CSS3 | MySQL | Bootstrap |
+| JavaScript | Bootstrap | SQL | MetaMask |
+
+</div>
+
+---
+
+# 💻 Skills
+
+<p align="center">
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://www.oracle.com/java/">
+<img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://www.w3.org/TR/CSS/">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://getbootstrap.com/">
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
 </p>
 
+---
 
-### Socials
+# 📚 Currently Learning
 
-<p align="left"> <a href="https://discord.com/users/CaptnJackSprow#4051" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/runesh.bhardwaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/CaptanJackSparr0w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/captain._.jacksparr0w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/runeshbhardwaj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/captain-jacksparrow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/BhardwajRunesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/खौफ़ x pndt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/captan_jacksparr0w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ☁️ Modern AI Workflows
+- ⚡ Automation Systems
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+# 🤝 Open To Collaborate On
 
-<a href="http://www.github.com/CaptanJackSparr0w"><img src="https://github-readme-stats.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CaptanJackSparr0w's GitHub stats" /></a>
+- Web Development Projects
+- AI-Based Applications
+- Database Systems
+- Python Automation
+- Oracle Apex Applications
 
-<a href="https://github.com/CaptanJackSparr0w" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptanJackSparr0w&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-### Support Me
+# 🌐 Connect With Me
 
-<a href="https://www.buymeacoffee.com/runeshbhardwaj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="center">
+
+<a href="https://www.github.com/CaptanJackSparr0w">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/runeshbhardwaj">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.twitter.com/BhardwajRunesh">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://www.instagram.com/captain._.jacksparr0w">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://discord.com/users/CaptnJackSprow#4051">
+<img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+
+</div>
+
+---
+
+# ☕ Support Me
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/runeshbhardwaj">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Building ideas into reality through code.”
+
+</div>
