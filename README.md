@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # 👋 Hi, I'm Runesh Bhardwaj
@@ -114,4 +114,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=120&section=footer"/>
 
 </div>
-```
