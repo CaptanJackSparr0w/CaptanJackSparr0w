@@ -1,124 +1,139 @@
-<!-- ===================================================== -->
+<!-- ========================================================= -->
 
-<!--              🚀 PREMIUM GITHUB PROFILE README          -->
+<!--                  🏆 S-TIER GITHUB PROFILE                  -->
 
-<!-- ===================================================== -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-# 👋 Hello, I'm <span style="color:#58A6FF">Runesh Bhardwaj</span>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Runesh%20Bhardwaj&fontSize=60&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Science%20Educator%20%E2%80%A2%20Researcher%20%E2%80%A2%20Developer&descAlignY=58&theme=tokyonight"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Enthusiast+🤖;Computer+Science+Educator+🎓;Developer+💻;Blockchain+Security+Researcher+🔐;Building+the+Future+with+Code+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=950&lines=Artificial+Intelligence+🤖;Machine+Learning+🧠;Blockchain+Security+🔐;Computer+Science+Education+🎓;Automation+⚙️;Open+Source+💙;Building+Technology+That+Matters+🚀" />
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/AI-Enthusiast-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Research-Blockchain-red?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=CaptanJackSparr0w&style=for-the-badge&color=0E75B6"/>
 
-<br><br>
+<img src="https://img.shields.io/github/followers/CaptanJackSparr0w?style=for-the-badge&logo=github"/>
 
-<img src="https://komarev.com/ghpvc/?username=CaptanJackSparr0w&style=flat-square&color=blue" />
+<img src="https://img.shields.io/github/stars/CaptanJackSparr0w?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
 
 </div>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=header"/>
 
 # 🌌 About Me
 
-```text
-💡 Name        :: Runesh Bhardwaj
-🎓 Profession  :: Computer Science Educator
-🤖 Passion     :: Artificial Intelligence & Automation
-🔬 Research    :: Blockchain Security
-🌍 Country     :: India
-🚀 Mission     :: Build technology that educates, automates, and inspires.
+```yaml
+name: Runesh Bhardwaj
+
+roles:
+  - Computer Science Educator
+  - AI Enthusiast
+  - Developer
+  - Researcher
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Blockchain Security
+  - Educational Technology
+  - Automation
+  - Web Development
+  - Creative Technology
+
+mission: >
+  Build intelligent software that helps people learn,
+  automate repetitive work, and solve meaningful problems.
 ```
 
-I enjoy creating intelligent systems, educational tools, interactive web applications, and research-driven software. My interests span **Artificial Intelligence**, **Machine Learning**, **Blockchain Security**, **Automation**, and **Creative Technology**, with a strong focus on solving practical problems through code.
+> I enjoy combining **research**, **education**, **software engineering**, and **AI** to create impactful digital experiences—from reinforcement learning experiments and educational tools to blockchain security research and interactive web applications.
 
 ---
 
-# ⚡ Current Focus
-
-<table>
-<tr>
-<td align="center">🤖<br><b>Artificial Intelligence</b></td>
-<td align="center">🧠<br><b>Machine Learning</b></td>
-<td align="center">🔐<br><b>Blockchain Security</b></td>
-<td align="center">⚙️<br><b>Automation</b></td>
-</tr>
-<tr>
-<td align="center">🌐<br><b>Web Development</b></td>
-<td align="center">🎓<br><b>Education Tech</b></td>
-<td align="center">🎨<br><b>UI/UX</b></td>
-<td align="center">📚<br><b>Research</b></td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Arsenal
+# 🚀 Focus Areas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,bootstrap,mysql,git,github,vscode&perline=6"/>
+|        🤖 AI       |          🧠 ML         |   🔐 Security   |   🌐 Web   |
+| :----------------: | :--------------------: | :-------------: | :--------: |
+|        LLMs        |      Deep Learning     | Smart Contracts | Full Stack |
+| Prompt Engineering | Reinforcement Learning | Static Analysis |  Modern UI |
+
+| ⚙️ Automation | 🎓 Education |  📚 Research |    🎨 Design   |
+| :-----------: | :----------: | :----------: | :------------: |
+|   AI Agents   |    EdTech    | Publications | Interactive UX |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🛠️ Tech Stack
 
-| 🚀 Project               | ✨ Description                                           |
-| ------------------------ | ------------------------------------------------------- |
-| 🐍 Boomslang AI          | Reinforcement Learning based Snake AI using PyTorch     |
-| 🧩 Sudoku Solver         | Intelligent Sudoku solver using optimized backtracking  |
-| 📊 Sorting Visualizer    | Interactive visualization of classic sorting algorithms |
-| 🌐 Educational Platforms | Responsive learning platforms and student resources     |
-| 🤖 AI Experiments        | Exploring automation, prompt engineering, and modern AI |
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,mysql&perline=7"/>
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,bootstrap,vscode&perline=8"/>
+
+</div>
 
 ---
 
 # 🔬 Research
 
-## 📄 Blockchain Smart Contract Security
+## 📄 Analysing Vulnerabilities in Real-World Blockchain Smart Contracts
 
 * Smart Contract Auditing
+* Blockchain Security
 * Vulnerability Detection
 * Static Analysis
-* Cybersecurity
-* Secure Blockchain Infrastructure
+* Cybersecurity Research
 
-### 🌱 Green Technologies
+### 🌱 Additional Research
 
+* Green Technologies
 * Bibliometric Analysis
 * Sustainable Computing
-* Emerging Technologies
-* Environmental Impact Studies
+* Emerging Technology Trends
 
 ---
 
-# 📈 GitHub Analytics
+# 🚀 Featured Projects
+
+| Project                      | Description                                             |
+| ---------------------------- | ------------------------------------------------------- |
+| 🐍 **Boomslang AI**          | Reinforcement Learning Snake AI with Deep Q-Learning    |
+| 🧩 **Sudoku Solver**         | High-performance recursive Sudoku solver in Python      |
+| 📊 **Sorting Visualizer**    | Interactive educational visualization platform          |
+| 🌐 **Educational Platforms** | Student-focused responsive web experiences              |
+| 🤖 **AI Experiments**        | Prompt engineering, automation, and intelligent systems |
+
+---
+
+# 📊 GitHub Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=CaptanJackSparr0w&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=CaptanJackSparr0w&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -132,55 +147,91 @@ I enjoy creating intelligent systems, educational tools, interactive web applica
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 🧠 Learning Journey
+# 🌟 Skills Overview
 
-```mermaid
-mindmap
-  root((Runesh))
-    Artificial Intelligence
-    Machine Learning
-    Blockchain Security
-    Automation
-    Research
-    Web Development
-    Educational Technology
-    Prompt Engineering
+```text
+AI & Machine Learning      █████████░
+Python Development         ██████████
+Research                   ████████░░
+Automation                 ████████░░
+Web Development            ███████░░░
+Blockchain Security        ███████░░░
+Educational Technology     █████████░
 ```
 
 ---
 
-# 🌍 Let's Connect
+# 🧠 Learning Roadmap
+
+```mermaid
+timeline
+    title Continuous Learning
+
+    2024 : Blockchain Research
+         : Smart Contract Security
+
+    2025 : Machine Learning
+         : Reinforcement Learning
+
+    2026 : AI Agents
+         : LLM Applications
+         : Automation Systems
+
+    Future : Intelligent Education Platforms
+           : Advanced AI Research
+```
+
+---
+
+# 🌍 Connect
 
 <div align="center">
 
-<a href="https://github.com/CaptanJackSparr0w">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-<a href="https://www.linkedin.com/in/runeshbhardwaj">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-<a href="https://orcid.org/0009-0008-8507-9403">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
+| GitHub                               | LinkedIn                                   | ORCID                                 |
+| ------------------------------------ | ------------------------------------------ | ------------------------------------- |
+| https://github.com/CaptanJackSparr0w | https://www.linkedin.com/in/runeshbhardwaj | https://orcid.org/0009-0008-8507-9403 |
 
 </div>
 
 ---
 
+# 💡 Motto
+
 <div align="center">
 
-## ✨ *"Turning ideas into intelligent systems and research into real-world impact."*
+## **"Build. Learn. Research. Teach. Repeat."**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!;Keep+Learning!;See+you+in+the+next+commit!+🚀" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer"/>
+---
+
+# 🐍 Animated Contribution Snake
+
+After enabling the `Platane/snk` GitHub Action in your profile repository, add:
+
+```html
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaptanJackSparr0w/CaptanJackSparr0w/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/CaptanJackSparr0w/CaptanJackSparr0w/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&theme=tokyonight"/>
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Happy+Coding!;Keep+Learning!;Keep+Building!;Let's+Create+Something+Amazing!+🚀"/>
 
 </div>
