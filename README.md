@@ -1,215 +1,205 @@
-# <div align="center">🚀 Runesh Bhardwaj</div>
+<!-- ===================================================== -->
+
+<!--               ⚡ S-TIER GITHUB PROFILE ⚡              -->
+
+<!-- ===================================================== -->
 
 <div align="center">
 
-### **Computer Science Educator • AI Enthusiast • Developer • Researcher**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Runesh Bhardwaj
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=700\&size=24\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=900\&lines=Artificial+Intelligence;Machine+Learning;Blockchain+Security;Automation+Systems;Educational+Technology;Building+Meaningful+Digital+Experiences)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Artificial+Intelligence+Engineer;Computer+Science+Educator;Blockchain+Security+Researcher;Building+AI+%26+Automation;Open+Source+Developer;Always+Learning+Something+New" />
 
-![](https://img.shields.io/badge/Focus-Artificial%20Intelligence-0ea5e9?style=for-the-badge)
-![](https://img.shields.io/badge/Research-Blockchain%20Security-2563eb?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-Developer-0891b2?style=for-the-badge)
-![](https://img.shields.io/badge/Lifelong-Learner-06b6d4?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/AI-Engineer-00c7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine-Learning-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research-Driven-0ea5e9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open-Source-06b6d4?style=for-the-badge"/>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=CaptanJackSparr0w&style=for-the-badge&color=0891b2"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+```text
+╭────────────────────────────────────────────────────────────╮
+│  🤖 AI • 🧠 ML • 🔐 Security • ⚙️ Automation • 🎓 Education │
+╰────────────────────────────────────────────────────────────╯
+```
+
+# 👨‍💻 About
 
 ```yaml
-Name: Runesh Bhardwaj
+name: Runesh Bhardwaj
 
-Role:
+location: India
+
+roles:
   - Computer Science Educator
   - AI Enthusiast
   - Software Developer
   - Researcher
 
-Currently Working On:
-  - Artificial Intelligence
-  - Machine Learning
-  - AI Automation
-  - Blockchain Security
+currently_building:
+  - AI Agents
   - Educational Technology
+  - Automation Systems
+  - Intelligent Applications
 
-Mission:
-  Build intelligent software that empowers learning,
-  automation, and innovation.
+motto:
+  Build → Learn → Research → Teach → Repeat
 ```
 
 ---
 
-# 🌟 Core Interests
+# 🚀 Focus
 
-|        🤖 AI       |   🧠 Machine Learning  |   🔐 Security   |  🌐 Development |
-| :----------------: | :--------------------: | :-------------: | :-------------: |
-|        LLMs        | Reinforcement Learning | Smart Contracts |    Full Stack   |
-|      AI Agents     |  Model Experimentation | Static Analysis | Modern Web Apps |
-| Prompt Engineering |       Automation       |  Cybersecurity  |  Interactive UI |
+| 🤖 Artificial Intelligence | 🧠 Machine Learning    | 🔐 Blockchain Security  |
+| -------------------------- | ---------------------- | ----------------------- |
+| AI Agents                  | Reinforcement Learning | Smart Contract Analysis |
+| LLM Workflows              | Prompt Engineering     | Vulnerability Research  |
+
+| 🌐 Development   | ⚙️ Automation         | 🎓 Education       |
+| ---------------- | --------------------- | ------------------ |
+| Python           | Productivity Systems  | Computer Science   |
+| Interactive Apps | Intelligent Workflows | Learning Platforms |
 
 ---
 
 # 🛠️ Tech Stack
 
-## Languages
-
-`Python` • `C++` • `Java` • `JavaScript` • `SQL`
-
-## Web
-
-`HTML5` • `CSS3` • `Bootstrap`
-
-## Databases
-
-`Oracle` • `MySQL`
-
-## Domains
-
-* Artificial Intelligence
-* Machine Learning
-* Blockchain Security
-* Automation
-* Educational Technology
-* UI / UX
-* Research
+```text
+🐍 Python        ████████████████████
+⚡ C++           ████████████████
+☕ Java          ███████████████
+🌐 HTML/CSS      ███████████████
+📜 JavaScript    ████████████
+🗄️ SQL           ███████████████
+🔧 Git/GitHub    ████████████████
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-| Project                      | Description                             |
-| ---------------------------- | --------------------------------------- |
-| 🐍 **Boomslang AI**          | Reinforcement Learning powered Snake AI |
-| 🧩 **Sudoku Solver**         | Intelligent Python Sudoku solver        |
-| 📊 **Sorting Visualizer**    | Interactive algorithm visualization     |
-| 🌐 **Educational Platforms** | Student-focused web applications        |
-| 🤖 **AI Experiments**        | Prompt engineering and automation       |
+## 🐍 Boomslang AI
+
+> Reinforcement Learning powered Snake AI using Deep Q Learning.
+
+## 🧩 Sudoku Solver
+
+> Fast and optimized Python solver using recursive backtracking.
+
+## 📊 Sorting Visualizer
+
+> Interactive visualization of fundamental sorting algorithms.
+
+## 🌐 Educational Platforms
+
+> Modern learning experiences built for accessibility and engagement.
 
 ---
 
 # 🔬 Research
 
-## 📄 Blockchain Smart Contract Security
+```
+Blockchain Security
+├── Smart Contract Auditing
+├── Vulnerability Detection
+├── Static Analysis
+└── Cybersecurity
 
-* Vulnerability Detection
-* Smart Contract Auditing
-* Static Analysis
-* Secure Blockchain Infrastructure
-
-## 🌱 Green Technologies
-
-* Bibliometric Analysis
-* Sustainable Computing
-* Emerging Technologies
-
----
-
-# 🎓 Education
-
-## Master of Technology (Computer Science)
-
-* Artificial Intelligence
-* Machine Learning
-* Advanced Computing
-* Software Engineering
-
-## Bachelor of Technology (Information Technology)
-
-* Data Structures
-* Operating Systems
-* DBMS
-* Computer Networks
-* Software Engineering
-
----
-
-# 📈 Current Learning Path
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* ⚙️ AI Agents
-* 🔄 Automation Systems
-* 📚 Prompt Engineering
-* 🌐 Modern Web Technologies
-
----
-
-# 📊 GitHub Stats
-
-> Replace `CaptanJackSparr0w` below if your username changes.
-
-```text
-┌───────────────────────────────────────────────┐
-│  📦 Building Projects                         │
-│  📖 Publishing Research                       │
-│  🤝 Contributing to Open Source               │
-│  🚀 Exploring AI & Automation                 │
-└───────────────────────────────────────────────┘
+Green Technologies
+├── Bibliometric Analysis
+├── Sustainable Computing
+└── Emerging Technology Trends
 ```
 
 ---
 
-# 🎯 Philosophy
+# 📈 GitHub Insights
 
-> **Build. Learn. Research. Teach. Repeat.**
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=CaptanJackSparr0w&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📚 Fun Facts
+# 📊 Activity Graph
 
-* 💡 I enjoy solving real-world problems with code.
-* 🎓 I love making technical concepts easier to understand.
-* 🔬 I'm interested in the intersection of AI and education.
-* 🚀 I believe continuous learning is the best investment.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptanJackSparr0w&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 🧠 Learning Cycle
+
+```mermaid
+flowchart LR
+    A[💡 Learn] --> B[⚒️ Build]
+    B --> C[🧪 Experiment]
+    C --> D[📚 Research]
+    D --> E[🚀 Improve]
+    E --> A
+```
+
+---
+
+# 📡 Connect
+
+| Platform    | Profile                          |
+| ----------- | -------------------------------- |
+| 🐙 GitHub   | `github.com/CaptanJackSparr0w`   |
+| 💼 LinkedIn | `linkedin.com/in/runeshbhardwaj` |
+| 🧪 ORCID    | `orcid.org/0009-0008-8507-9403`  |
 
 ---
 
 <details>
-<summary><strong>📌 More About Me</strong></summary>
+<summary><strong>✨ Fun Fact</strong></summary>
 
-### Professional Focus
-
-* Computer Science Education
-* Artificial Intelligence
-* Machine Learning
-* Blockchain Security
-* Educational Technology
-* Automation Systems
-
-### Research Themes
-
-* Smart Contract Vulnerabilities
-* Cybersecurity
-* Sustainable Technologies
-* Emerging Computing Trends
-
-### Long-Term Goals
-
-* Build impactful AI-powered educational tools.
-* Contribute to research in secure and intelligent systems.
-* Create open-source software that helps learners and developers.
+I enjoy combining artificial intelligence, education, automation, research, and software engineering to build technology that helps people learn faster and solve meaningful problems.
 
 </details>
 
 ---
 
-# 🌐 Connect
-
-| Platform | Link                             |
-| -------- | -------------------------------- |
-| GitHub   | `github.com/CaptanJackSparr0w`   |
-| LinkedIn | `linkedin.com/in/runeshbhardwaj` |
-| ORCID    | `orcid.org/0009-0008-8507-9403`  |
-
----
-
 <div align="center">
 
-## ⭐ Thanks for stopping by!
+## ⭐ *"Turning research into software and software into impact."*
 
-### *“Blending Artificial Intelligence, Education, and Creative Technology to build meaningful digital experiences.”*
+```text
+██████╗ ██╗   ██╗██╗██╗     ██████╗
+██╔══██╗██║   ██║██║██║     ██╔══██╗
+██████╔╝██║   ██║██║██║     ██║  ██║
+██╔══██╗██║   ██║██║██║     ██║  ██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝
+```
 
-**Happy Coding 🚀**
+**Thanks for visiting my profile! 🚀**
 
 </div>
