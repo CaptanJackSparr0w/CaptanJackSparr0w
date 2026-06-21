@@ -594,7 +594,6 @@ while(true){
 
 ### 🐍 1. GitHub Contribution Snake
 
-```md
 <p align="center">
   <picture>
     <source
@@ -605,25 +604,17 @@ while(true){
       src="https://raw.githubusercontent.com/CaptanJackSparr0w/CaptanJackSparr0w/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-```
-
----
 
 ### 📈 2. 3D Contribution Calendar
 
-```md
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptanJackSparr0w&theme=tokyonight"/>
 
 </div>
-```
-
----
 
 ### 📊 3. Profile Summary Cards
 
-```md
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaptanJackSparr0w&theme=tokyonight"/>
@@ -635,77 +626,47 @@ while(true){
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaptanJackSparr0w&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
-```
-
----
 
 ### 🌟 4. Holopin Badge Board (if you use Holopin)
 
-```md
 [![@yourholopin's Holopin board](https://holopin.io/api/user/board?user=YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
-```
-
----
 
 ### 🎵 5. Spotify "Now Playing" (Optional)
 
-```md
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID)
-```
-
----
 
 ### ⏱️ 6. WakaTime Coding Stats (Optional)
 
-```md
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
 
 </div>
-```
-
----
 
 ### 🎯 7. Visitor Counter
 
-```md
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=CaptanJackSparr0w&style=for-the-badge&color=22D3EE"/>
 
 </div>
-```
-
----
 
 ### 🚀 8. Random Dev Quote
 
-```md
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-```
-
----
 
 ### 📅 9. GitHub Metrics
 
-```md
 <div align="center">
 
 <img src="https://metrics.lecoq.io/CaptanJackSparr0w?template=classic&isocalendar=1&languages=1&followup=1&activity=1"/>
 
 </div>
-```
 
----
-
-### 💻 10. Terminal Footer
-
-````md
 ```bash
 runesh@github:~$ ./life.sh
 
@@ -717,19 +678,4 @@ runesh@github:~$ ./life.sh
 
 Status: ████████████████████ 100%
 ```
-````
-
----
-
-## ⭐ Final Rating
-
-| Category             |         Score |
-| -------------------- | ------------: |
-| Visual Design        | ⭐⭐⭐⭐⭐ (10/10) |
-| Animations           | ⭐⭐⭐⭐⭐ (10/10) |
-| Technical Depth      | ⭐⭐⭐⭐⭐ (10/10) |
-| Recruiter Appeal     | ⭐⭐⭐⭐⭐ (10/10) |
-| Research Showcase    | ⭐⭐⭐⭐⭐ (10/10) |
-| Open Source Presence | ⭐⭐⭐⭐⭐ (10/10) |
-| Uniqueness           | ⭐⭐⭐⭐⭐ (10/10) |
 
