@@ -7,10 +7,10 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CaptanJackSparr0w&style=for-the-badge&color=0891B2)](https://github.com/CaptanJackSparr0w)
-[![Followers](https://img.shields.io/github/followers/CaptanJackSparr0w?style=for-the-badge&logo=github&color=1E3A8A)](https://github.com/CaptanJackSparr0w)
-[![Stars](https://img.shields.io/github/stars/CaptanJackSparr0w?style=for-the-badge&logo=github&color=06B6D4)](https://github.com/CaptanJackSparr0w)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-06B6D4?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/CaptanJackSparr0w)
-[![Location](https://img.shields.io/badge/Location-Himachal%20Pradesh%2C%20India-0F172A?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+[![Followers](https://img.shields.io/github/followers/CaptanJackSparr0w?style=for-the-badge&logo=github&color=1E3A8A)](https://github.com/CaptanJackSparr0w?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-Public%20%26%20Active-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaptanJackSparr0w?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-0891B2?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/CaptanJackSparr0w)
+[![Location](https://img.shields.io/badge/Location-Himachal%20Pradesh%2C%20India-0F172A?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Himachal+Pradesh,+India)
 
 </div>
 
@@ -22,7 +22,7 @@
 name: Runesh Bhardwaj
 location: Himachal Pradesh, India 🇮🇳
 roles:
-  - 🎓 Assistant Professor (Computer Science)
+  - 🎓 Assistant Professor & Computer Science Educator
   - 🤖 AI Researcher & Agentic Systems Builder
   - 💻 Full Stack Developer
   - 🔬 Blockchain & Security Enthusiast
@@ -65,7 +65,7 @@ philosophy: "Transform research into software, and software into meaningful impa
 | 🌈 [**sorting-visualizer-web**](https://github.com/CaptanJackSparr0w/sorting-visualizer-web) | Real-time interactive sorting algorithm visualizer with Web Audio API sound synthesis and HSV rainbow spectrum gradients. | `JavaScript` `HTML5` `Web Audio` `CSS3` |
 | 🧩 [**Sudoku_Solver**](https://github.com/CaptanJackSparr0w/Sudoku_Solver) | High-performance Sudoku solver utilizing bitmask constraint propagation, MRV heuristics, and benchmarking suites. | `Python` `Algorithms` `Optimization` |
 | 🔄 [**JSON-to-MD-convertor**](https://github.com/CaptanJackSparr0w/JSON-to-MD-convertor) | Clean and modular utility converting complex structured JSON payloads into formatted Markdown documentation. | `Python` `Markdown` `CLI` |
-| 🌐 [**Portfolio Website**](https://github.com/CaptanJackSparr0w/Portfolio) | Modern personal portfolio highlighting projects, research, and technical achievements ([Live Site](https://captanjacksparr0w.github.io/Portfolio/)). | `HTML5` `CSS3` `JavaScript` |
+| 🌐 [**Portfolio Website**](https://github.com/CaptanJackSparr0w/Portfolio) | Modern personal portfolio highlighting projects, research, and technical achievements ([Live Demo](https://captanjacksparr0w.github.io/Portfolio/)). | `HTML5` `CSS3` `JavaScript` |
 | 📊 [**Sorting-Visualiser.io**](https://github.com/CaptanJackSparr0w/Sorting-Visualiser.io) | Visualizing common sorting algorithms using desktop GUI animations in Python with Tkinter. | `Python` `Tkinter` `GUI` |
 | ⛓️ [**Web3.0**](https://github.com/CaptanJackSparr0w/Web3.0) | Exploration and implementation of decentralized application components and smart contract interfaces. | `HTML` `JavaScript` `Web3` |
 
@@ -92,21 +92,7 @@ philosophy: "Transform research into software, and software into meaningful impa
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptanJackSparr0w&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-<br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophy Wall" />
-
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/CaptanJackSparr0w/CaptanJackSparr0w/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 
 </div>
 
@@ -124,26 +110,20 @@ philosophy: "Transform research into software, and software into meaningful impa
   <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://twitter.com/BhardwajRunesh">
+<a href="https://x.com/BhardwajRunesh">
   <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter/X" />
 </a>
 &nbsp;
-<a href="https://captanjacksparr0w.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-0891B2?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" alt="Portfolio" />
+<a href="https://runesh-bhardwaj-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Portfolio Vercel" />
 </a>
 &nbsp;
-<a href="https://orcid.org/0009-0008-8507-9403">
-  <img src="https://img.shields.io/badge/ORCID-0009--0008--8507--9403-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="40" alt="ORCID" />
+<a href="https://captanjacksparr0w.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-0891B2?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Portfolio GitHub" />
 </a>
 &nbsp;
 <a href="mailto:runeshbhardwaj99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.buymeacoffee.com/runeshbhardwaj">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
+  <img src="https://img.shields.io/badge/Email-runeshbhardwaj99-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
 </a>
 
 <br/><br/>
