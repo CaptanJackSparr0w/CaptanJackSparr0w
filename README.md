@@ -1,69 +1,72 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,80:0284C7,100:06B6D4&height=280&section=header&text=Runesh%20Bhardwaj&fontSize=52&fontColor=22D3EE&animation=fadeIn&desc=AI%20Researcher%20•%20Computer%20Science%20Educator%20•%20Full%20Stack%20Engineer&descAlignY=62&descColor=E2E8F0"/>
+<!-- ==================== HERO ANIMATED BANNER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:1E1E38,50:1E40AF,75:0284C7,100:06B6D4&height=280&section=header&text=⚡%20Runesh%20Bhardwaj&fontSize=50&fontColor=38BDF8&fontAlignY=36&animation=twinkling&desc=AI%20Researcher%20•%20Computer%20Science%20Educator%20•%20Full%20Stack%20Architect&descAlignY=62&descColor=E0F2FE"/>
 
-<!-- Dynamic Animated Typing Subtitle -->
+<!-- ==================== DYNAMIC TYPING SUBTITLE ==================== -->
 <a href="https://github.com/CaptanJackSparr0w">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=22D3EE&center=true&vCenter=true&width=950&lines=🤖+Building+Autonomous+Agentic+AI+Ecosystems;🎓+Mentoring+Next-Gen+Computer+Scientists+%26+DevOps;🔐+Auditing+Blockchain+Security+%26+Smart+Contracts;⚡+Engineering+Interactive+Algorithm+Visualizers;🚀+Bridging+Cutting-Edge+Research+with+Practical+Software" alt="Animated Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1100&color=38BDF8&center=true&vCenter=true&width=980&lines=🤖+Architecting+Autonomous+Agentic+AI+%26+Multi-Agent+Workflows;🎓+Assistant+Professor+•+Teaching+Computer+Science+%26+DevOps;🔐+Auditing+Blockchain+Smart+Contract+Vulnerabilities+%26+PQC;⚡+Building+High-Performance+Algorithm+Visualizers+%26+Web+Tools;🚀+Turning+Deep+Academic+Research+into+Production-Ready+Software" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Interactive Badges Navigation -->
-[![Profile Views](https://komarev.com/ghpvc/?username=CaptanJackSparr0w&style=for-the-badge&color=0891B2)](https://github.com/CaptanJackSparr0w)
-[![Followers](https://img.shields.io/github/followers/CaptanJackSparr0w?style=for-the-badge&logo=github&color=1E3A8A)](https://github.com/CaptanJackSparr0w?tab=followers)
-[![Repositories](https://img.shields.io/badge/Repositories-20%2B%20Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaptanJackSparr0w?tab=repositories)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Builder-0891B2?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/CaptanJackSparr0w)
-[![Location](https://img.shields.io/badge/Location-Himachal%20Pradesh%2C%20India-0F172A?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Himachal+Pradesh,+India)
 
 <br/><br/>
 
-<!-- Quick Navigation Bar -->
-**[🚀 Featured Projects](#-featured--active-projects)** • **[🧠 AI Architecture](#-agentic-ai--systems-architecture)** • **[🛠️ Tech Stack](#️-technical-ecosystem)** • **[🔬 Research](#-research--academic-publications)** • **[📊 Analytics](#-github-analytics--metrics)** • **[🌐 Connect](#-connect--collaborate)**
+<!-- ==================== STATUS PILLS ==================== -->
+[![Profile Views](https://komarev.com/ghpvc/?username=CaptanJackSparr0w&style=flat-square&color=0284C7&label=PROFILE%20VIEWS)](https://github.com/CaptanJackSparr0w)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/CaptanJackSparr0w?style=flat-square&logo=github&color=1E3A8A&label=FOLLOWERS)](https://github.com/CaptanJackSparr0w?tab=followers)
+&nbsp;
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-20%2B%20PROJECTS-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/CaptanJackSparr0w?tab=repositories)
+&nbsp;
+[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-10B981?style=flat-square&logo=open-source-initiative&logoColor=white)](https://github.com/CaptanJackSparr0w)
+&nbsp;
+[![Location](https://img.shields.io/badge/LOCATION-HIMACHAL%20PRADESH%2C%20INDIA-3B82F6?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Himachal+Pradesh,+India)
+
+<br/><br/>
+
+<!-- ==================== QUICK NAV BAR ==================== -->
+| [🚀 Featured Projects](#-featured--active-projects) | [🧠 AI Architecture](#-agentic-ai--systems-architecture) | [🛠️ Tech Ecosystem](#️-technical-ecosystem) | [🔬 Research](#-research--academic-publications) | [📊 Analytics](#-github-analytics--metrics) | [🌐 Connect](#-connect--collaborate) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 Profile Manifest
 
 ```yaml
-name: Runesh Bhardwaj
-location: Himachal Pradesh, India 🇮🇳
-roles:
-  - 🎓 Assistant Professor & Computer Science Educator
-  - 🤖 AI Researcher (Agentic Systems & Multi-Agent Orchestration)
-  - 💻 Full-Stack Software Engineer & Open-Source Builder
-  - 🔬 Blockchain & Post-Quantum Cryptography Researcher
+identity:
+  name: Runesh Bhardwaj
+  title: Assistant Professor & AI Researcher
+  location: Himachal Pradesh, India 🇮🇳
+  affiliations:
+    - Himachal Pradesh University (HPU), Shimla (Research Scholar)
+    - Computer Science Educator (BCA, MCA, DevOps, OS)
 
-mission: >
-  To bridge theoretical academic research with high-performance,
-  interactive software solutions that automate workflows and empower learners.
+focus_areas:
+  - 🤖 Autonomous Agentic Systems & Multi-Agent Orchestration
+  - 🌈 Real-Time Algorithmic Visualizations & Web Audio Synthesis
+  - 🔐 Smart Contract Security Audits & Post-Quantum Cryptography (PQC)
+  - 📚 Academic Automation, Curriculum Engineering & AI Pedagogy
+
+mantra: >
+  "Research fuels innovation. Innovation builds software. Software creates real-world impact."
 ```
 
-<details>
-<summary><b>⚡ Click to inspect Interactive Developer Terminal & System Status</b></summary>
+<details open>
+<summary><b>🖥️ Interactive Terminal Session (Click to toggle)</b></summary>
 
 <br/>
 
 ```bash
-$ runesh --version
-Runesh Bhardwaj v2026.8 (x86_64-linux-gnu)
+runesh@spark-station:~$ ./init_workspace.sh --verbose
 
-$ runesh --status
-● Agentic Systems       [ACTIVE] - Multi-agent task decomposition & orchestration
-● Algorithm Visualizer  [ACTIVE] - Web Audio API + HSV Canvas spectrum visualizer
-● Smart Contract Audit  [ACTIVE] - Automated vulnerability scanning (Reentrancy, Access Control)
-● Academic Pipelines    [ACTIVE] - Automated lecture decks & curriculum scaffolding
+[✓] Initializing Neural Knowledge Base ........................ OK
+[✓] Synchronizing Multi-Agent Task Orchestrator ............... OK
+[✓] Loading Web Audio & HSV Gradient Render Pipelines ......... OK
+[✓] Mounting Smart Contract Static Security Analyzers ......... OK
+[✓] Compiling Academic Lecture Decks & Lab Workflows .......... OK
 
-$ runesh --life-loop
-while (alive) {
-    studyNewResearch();
-    prototypeSoftware();
-    teachAndMentor();
-    shipOpenSource();
-}
+System Status: ONLINE | Active Repositories: 22 | Research Mode: ENGAGED
 ```
 
 </details>
@@ -73,35 +76,34 @@ while (alive) {
 ### 🧠 Agentic AI & Systems Architecture
 
 ```mermaid
-flowchart TB
-    subgraph UI_Layer ["🖥️ User Interaction Layer"]
-        CLI["Interactive CLI / Web UI"]
-        Audio["Web Audio & Canvas Visualizer"]
+flowchart LR
+    subgraph Client ["🖥️ Interface Layer"]
+        CLI["Interactive CLI"]
+        WebUI["Web App / Audio Canvas"]
     end
 
-    subgraph Agent_Core ["🤖 Autonomous Agent Core"]
+    subgraph Orchestrator ["🤖 Agentic Core Engine"]
         Planner["Dynamic Task Planner"]
         Router{"Intent Router"}
-        ResearchAgent["Research & Literature Agent"]
-        CodingAgent["Code Gen & Refactoring Agent"]
-        SecurityAgent["Smart Contract Security Scanner"]
+        ResearchAgent["Research Agent"]
+        DevAgent["Software Agent"]
+        AuditAgent["Security Agent"]
     end
 
-    subgraph Knowledge_Layer ["🗄️ Knowledge & State Management"]
-        VectorDB[("Vector Knowledge Base")]
-        PARA[("Obsidian / PARA Framework")]
-        Memory[("Long-Term Epistemic Memory")]
+    subgraph MemoryLayer ["🗄️ Knowledge & Memory"]
+        VectorDB[("Vector Store")]
+        Obsidian[("Obsidian / PARA")]
+        State[("Epistemic State")]
     end
 
-    CLI --> Planner
-    Audio --> Planner
+    Client --> Planner
     Planner --> Router
     Router --> ResearchAgent
-    Router --> CodingAgent
-    Router --> SecurityAgent
+    Router --> DevAgent
+    Router --> AuditAgent
     ResearchAgent <--> VectorDB
-    CodingAgent <--> Memory
-    SecurityAgent <--> PARA
+    DevAgent <--> State
+    AuditAgent <--> Obsidian
 ```
 
 ---
@@ -110,33 +112,29 @@ flowchart TB
 
 <div align="center">
 
-| Project | Highlights & Capabilities | Stack & Links |
+| Project | Highlights & Core Capabilities | Stack & Actions |
 |:---|:---|:---:|
-| 🌈 [**sorting-visualizer-web**](https://github.com/CaptanJackSparr0w/sorting-visualizer-web) | Real-time interactive sorting algorithm visualizer with Web Audio API sound synthesis and HSV rainbow spectrum gradients. | `JavaScript` `HTML5` `Web Audio` `CSS3`<br/>[**Explore Repo**](https://github.com/CaptanJackSparr0w/sorting-visualizer-web) |
-| 🧩 [**Sudoku_Solver**](https://github.com/CaptanJackSparr0w/Sudoku_Solver) | Ultra-fast constraint propagation solver powered by bitmask representation, MRV heuristics, and benchmarking suites. | `Python` `Algorithms` `Optimization`<br/>[**Explore Repo**](https://github.com/CaptanJackSparr0w/Sudoku_Solver) |
-| 🔄 [**JSON-to-MD-convertor**](https://github.com/CaptanJackSparr0w/JSON-to-MD-convertor) | Developer CLI utility translating deeply nested JSON schemas into structured, publishable Markdown documentation. | `Python` `CLI` `Markdown`<br/>[**Explore Repo**](https://github.com/CaptanJackSparr0w/JSON-to-MD-convertor) |
-| 🌐 [**Portfolio Showcase**](https://github.com/CaptanJackSparr0w/Portfolio) | Modern personal developer portfolio highlighting research manuscripts, production builds, and interactive demos. | `HTML5` `CSS3` `JavaScript`<br/>[**Live Site**](https://runesh-bhardwaj-portfolio.vercel.app/) • [**Pages**](https://captanjacksparr0w.github.io/Portfolio/) |
-| 📊 [**Sorting-Visualiser.io**](https://github.com/CaptanJackSparr0w/Sorting-Visualiser.io) | Interactive desktop application showcasing sorting steps, time complexities, and comparisons in Python Tkinter. | `Python` `Tkinter` `GUI`<br/>[**Explore Repo**](https://github.com/CaptanJackSparr0w/Sorting-Visualiser.io) |
-| ⛓️ [**Web3.0 Experiments**](https://github.com/CaptanJackSparr0w/Web3.0) | Decentralized application interfaces and smart contract testing harness for EVM blockchain interactions. | `HTML` `JavaScript` `EVM`<br/>[**Explore Repo**](https://github.com/CaptanJackSparr0w/Web3.0) |
+| 🌈 [**sorting-visualizer-web**](https://github.com/CaptanJackSparr0w/sorting-visualizer-web) | **Interactive Sound & Gradient Sorting Visualizer**<br/>Real-time visualizer mapping array elements to Web Audio API sound synthesis and dynamic HSV rainbow chromatic gradients. Supports QuickSort, MergeSort, BubbleSort, and more. | `JavaScript` `HTML5` `Web Audio` `CSS3`<br/><br/>[**Explore Code**](https://github.com/CaptanJackSparr0w/sorting-visualizer-web) |
+| 🧩 [**Sudoku_Solver**](https://github.com/CaptanJackSparr0w/Sudoku_Solver) | **High-Performance Constraint Engine**<br/>Ultra-fast Sudoku solver utilizing bitmask constraint propagation (`1 << n`), Minimum Remaining Values (MRV) heuristics, and extensive benchmarking suites. | `Python` `Algorithms` `Optimization`<br/><br/>[**Explore Code**](https://github.com/CaptanJackSparr0w/Sudoku_Solver) |
+| 🔄 [**JSON-to-MD-convertor**](https://github.com/CaptanJackSparr0w/JSON-to-MD-convertor) | **Structured Schema Documenter**<br/>Lightweight CLI utility converting nested, multi-tier JSON payloads and API responses directly into standardized, human-readable Markdown docs. | `Python` `Markdown` `CLI`<br/><br/>[**Explore Code**](https://github.com/CaptanJackSparr0w/JSON-to-MD-convertor) |
+| 🌐 [**Portfolio Showcase**](https://github.com/CaptanJackSparr0w/Portfolio) | **Interactive Developer Showcase**<br/>Personal portfolio featuring research papers, project case studies, and engineering highlights. | `HTML5` `CSS3` `JavaScript`<br/><br/>[**Live Vercel**](https://runesh-bhardwaj-portfolio.vercel.app/) • [**GitHub Pages**](https://captanjacksparr0w.github.io/Portfolio/) |
+| 📊 [**Sorting-Visualiser.io**](https://github.com/CaptanJackSparr0w/Sorting-Visualiser.io) | **Desktop Algorithm Animator**<br/>Python Tkinter GUI visualizing step-by-step sorting logic, algorithmic comparisons, and operational complexities. | `Python` `Tkinter` `GUI`<br/><br/>[**Explore Code**](https://github.com/CaptanJackSparr0w/Sorting-Visualiser.io) |
+| ⛓️ [**Web3.0 Experiments**](https://github.com/CaptanJackSparr0w/Web3.0) | **Decentralized Application Prototypes**<br/>Smart contract interaction harnesses, dApp frontend integrations, and EVM experiments. | `HTML` `JavaScript` `EVM`<br/><br/>[**Explore Code**](https://github.com/CaptanJackSparr0w/Web3.0) |
 
 </div>
 
 <details>
-<summary><b>🔍 Click to expand detailed project specifications & architectures</b></summary>
+<summary><b>🔍 Click to view Deep-Dive Technical Blueprints</b></summary>
 
 <br/>
 
 #### 1. [sorting-visualizer-web](https://github.com/CaptanJackSparr0w/sorting-visualizer-web)
-* **Audio Synthesis:** Employs the browser Web Audio API to map array element values directly to audio oscillator frequencies for auditory algorithmic feedback.
-* **Visual Representation:** Dynamic HSV color wheel gradient mapping providing continuous chromatic transitions during comparisons, swaps, and sorted validations.
-* **Algorithms Implemented:** QuickSort, MergeSort, BubbleSort, InsertionSort, and SelectionSort with variable playback throttling.
+* **Real-Time Sound Synthesis:** Uses `AudioContext` oscillators with linear frequency ramp mappings to deliver auditory representations of sorting operations.
+* **HSV Spectrum Mapping:** Calculates HSV hue angles dynamically ($0^\circ \to 360^\circ$) based on element index and magnitude for smooth color spectrum rendering.
 
 #### 2. [Sudoku_Solver](https://github.com/CaptanJackSparr0w/Sudoku_Solver)
-* **Bitmask Constraint Propagation:** Fast bitwise operations (`1 << n`) representing candidate sets for each row, column, and 3x3 grid box.
-* **Minimum Remaining Values (MRV) Heuristic:** Prioritizes cells with the fewest remaining legal choices to minimize backtracking tree depth.
-
-#### 3. [JSON-to-MD-convertor](https://github.com/CaptanJackSparr0w/JSON-to-MD-convertor)
-* Converts API outputs, configuration files, and schema definitions into standardized markdown documentation ready for GitHub wikis and READMEs.
+* **Bitmask Pruning:** Maintains $9$-bit bitmasks for rows, columns, and $3 \times 3$ boxes, enabling $O(1)$ candidate validity checks.
+* **MRV Heuristic:** Continuously evaluates unassigned cells to pick the variable with the tightest constraints, drastically reducing the search tree depth.
 
 </details>
 
@@ -146,17 +144,16 @@ flowchart TB
 
 <div align="center">
 
-<!-- Animated Skill Icons -->
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,bootstrap,mysql,sqlite,docker,git,github,vscode,postman,linux&perline=10" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,bootstrap,mysql,sqlite,docker,git,github,vscode,postman,linux&perline=10" alt="Tech Stack Grid" />
 
 <br/><br/>
 
-| 🤖 **AI & Agentic Systems** | 🔐 **Security & Cryptography** | 🌐 **Full-Stack & Web** | 🎓 **Teaching & Systems** |
+| 🤖 **AI & Agentic Systems** | 🔐 **Security & Web3** | 🌐 **Full-Stack & Interactive** | 🎓 **Teaching & Systems** |
 |:---|:---|:---|:---|
 | • Autonomous Multi-Agent Workflows | • Smart Contract Vulnerability Auditing | • React.js & Next.js Frameworks | • Data Structures & Algorithms (BCA/MCA) |
-| • LLM Tool Calling & Prompt Engineering | • Post-Quantum Cryptography (PQC) | • Node.js & Express REST APIs | • Operating Systems & Unix Architecture |
-| • Deep Q-Learning & Reinforcement Learning | • EVM Security & Formal Analysis | • Modern JavaScript / TypeScript (ES6+) | • DevOps, CI/CD & GitHub Actions |
-| • Knowledge Graphs & Obsidian Workflows | • Cryptographic Protocol Reviews | • Web Audio API & HTML5 Canvas | • Interactive Lab & Curriculum Design |
+| • LLM Tool Calling & Prompt Engineering | • Post-Quantum Cryptography (PQC) | • Node.js & Express REST APIs | • Operating Systems & Linux Internals |
+| • Deep Q-Learning & Reinforcement Learning | • EVM Security & Threat Modeling | • Modern JavaScript / TypeScript (ES6+) | • DevOps, CI/CD & Automated Grading |
+| • Vector Databases & RAG Pipelines | • Cryptographic Protocol Reviews | • Web Audio API & HTML5 Canvas | • Curriculum & Interactive Lab Design |
 
 </div>
 
@@ -166,28 +163,28 @@ flowchart TB
 
 ```mermaid
 timeline
-    title Academic & Research Journey
+    title Research & Academic Trajectory
     2023 : Smart Contract Vulnerability Review (IJSART)
-         : Empirical Vulnerability Detection in Active DeFi Contracts
-    2024 : Bibliometric Assessment of Green Computing Trends
-         : Multi-Agent System Prototyping
+         : Vulnerability Prevalence in Active DeFi Ecosystems
+    2024 : Bibliometric Analysis of Sustainable Computing Trends
+         : Multi-Agent System Prototyping & Autonomous Tools
     2025 : Agentic AI Orchestration & Educational Automation
-         : Interdisciplinary Materials Impact Studies
-    2026 : Post-Quantum Cryptography (PQC) Exploration
+         : Interdisciplinary Environmental Materials Impact Analysis
+    2026 : Post-Quantum Cryptography (PQC) Standards & Security
          : Comparative Environmental Assessment of Wind Turbine Materials
 ```
 
 <details>
-<summary><b>📚 Click to view peer-reviewed publications & abstracts</b></summary>
+<summary><b>📚 Click to expand Academic Contributions & Manuscripts</b></summary>
 
 <br/>
 
 * 📄 **Comparative Environmental and Economic Assessment of Wind Turbine Blade Materials** *(Journal of Polymer & Composites, 2026)*
-  * *Focus:* Lifecycle assessment, ecological sustainability, and mechanical performance comparisons for next-generation composite structures.
-* 🛡️ **Smart Contract Vulnerabilities: A Literature Review** *(International Journal of Scientific Advancement in Research and Technology)*
-  * *Focus:* Systematic categorization of Ethereum smart contract vulnerabilities (reentrancy, integer overflow, unchecked calls) and automated auditing techniques.
+  * Lifecycle assessment and mechanical viability analysis for sustainable engineering composites.
+* 🛡️ **Smart Contract Vulnerabilities: A Literature Review** *(IJSART)*
+  * Systematic analysis of attack vectors in EVM contracts including reentrancy, integer overflows, and oracle manipulations.
 * 🔍 **Analysing Vulnerabilities in Real-World Blockchain Smart Contracts** *(Academic Archive)*
-  * *Focus:* Empirical study on decentralized finance security, audit frameworks, and verification protocols.
+  * Empirical study on decentralized finance security, formal audit verification, and defense-in-depth strategies.
 
 </details>
 
@@ -203,11 +200,21 @@ timeline
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=CaptanJackSparr0w&theme=tokyonight&hide_border=true" alt="GitHub Streak Tracker" />
+<img src="https://streak-stats.demolab.com?user=CaptanJackSparr0w&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophy Wall" />
+<img src="https://github-profile-trophy.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### ⭐ Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
@@ -217,34 +224,34 @@ timeline
 
 <div align="center">
 
-<!-- Interactive Social Icons -->
+<!-- Interactive Social Badges Grid -->
 <a href="https://github.com/CaptanJackSparr0w">
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/runeshbhardwaj">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/BhardwajRunesh">
   <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter/X" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://runesh-bhardwaj-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Portfolio Vercel" />
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Vercel Portfolio" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://captanjacksparr0w.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-0891B2?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Portfolio GitHub" />
+  <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-0891B2?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub Pages" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:runeshbhardwaj99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Direct%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Direct%20Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
 </a>
 
 <br/><br/>
 
-<!-- Footer Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:1E3A8A,80:0284C7,100:0F172A&height=150&section=footer&animation=fadeIn" />
+<!-- Footer Waving Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,25:0284C7,50:1E40AF,75:1E1E38,100:0B0F19&height=150&section=footer&animation=fadeIn" />
 
 </div>
