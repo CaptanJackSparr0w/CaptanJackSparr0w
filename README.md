@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ==================== HERO ANIMATED BANNER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:1E1E38,50:1E40AF,75:0284C7,100:06B6D4&height=280&section=header&text=⚡%20Runesh%20Bhardwaj&fontSize=50&fontColor=38BDF8&fontAlignY=36&animation=twinkling&desc=AI%20Researcher%20•%20Computer%20Science%20Educator%20•%20Full%20Stack%20Architect&descAlignY=62&descColor=E0F2FE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:1E1E38,50:1E40AF,75:0284C7,100:06B6D4&height=280&section=header&text=%E2%9A%A1%20Runesh%20Bhardwaj&fontSize=50&fontColor=38BDF8&fontAlignY=36&animation=twinkling&desc=AI%20Researcher%20%E2%80%A2%20Computer%20Science%20Educator%20%E2%80%A2%20Full%20Stack%20Architect&descAlignY=62&descColor=E0F2FE"/>
 
 <!-- ==================== DYNAMIC TYPING SUBTITLE ==================== -->
 <a href="https://github.com/CaptanJackSparr0w">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1100&color=38BDF8&center=true&vCenter=true&width=980&lines=🤖+Architecting+Autonomous+Agentic+AI+%26+Multi-Agent+Workflows;🎓+Assistant+Professor+•+Teaching+Computer+Science+%26+DevOps;🔐+Auditing+Blockchain+Smart+Contract+Vulnerabilities+%26+PQC;⚡+Building+High-Performance+Algorithm+Visualizers+%26+Web+Tools;🚀+Turning+Deep+Academic+Research+into+Production-Ready+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1100&color=38BDF8&center=true&vCenter=true&width=980&lines=%F0%9F%A4%96+Architecting+Autonomous+Agentic+AI+%26+Multi-Agent+Workflows;%F0%9F%8E%93+Assistant+Professor+%E2%80%A2+Teaching+Computer+Science+%26+DevOps;%F0%9F%94%90+Auditing+Blockchain+Smart+Contract+Vulnerabilities+%26+PQC;%E2%9A%A1+Building+High-Performance+Algorithm+Visualizers+%26+Web+Tools;%F0%9F%9A%80+Turning+Deep+Academic+Research+into+Production-Ready+Software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -194,17 +194,25 @@ timeline
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<a href="https://github.com/CaptanJackSparr0w">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/CaptanJackSparr0w">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=CaptanJackSparr0w&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<a href="https://github.com/CaptanJackSparr0w">
+  <img src="https://streak-stats.demolab.com?user=CaptanJackSparr0w&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+<a href="https://github.com/CaptanJackSparr0w">
+  <img src="https://github-profile-trophy.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+</a>
 
 </div>
 
