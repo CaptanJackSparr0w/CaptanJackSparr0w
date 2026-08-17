@@ -195,11 +195,11 @@ timeline
 <div align="center">
 
 <a href="https://github.com/CaptanJackSparr0w">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/CaptanJackSparr0w">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 
 <br/><br/>
@@ -211,7 +211,7 @@ timeline
 <br/><br/>
 
 <a href="https://github.com/CaptanJackSparr0w">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </a>
 
 </div>
