@@ -1,31 +1,31 @@
 <div align="center">
 
 <!-- ==================== HERO ANIMATED BANNER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,20:1E1B4B,45:4338CA,70:06B6D4,100:3B82F6&height=280&section=header&text=%E2%9A%A1%20Runesh%20Bhardwaj&fontSize=54&fontColor=38BDF8&fontAlignY=36&fontFamily=Montserrat&animation=fadeIn&desc=%F0%9F%A4%96%20AI%20Researcher%20%E2%80%A2%20%F0%9F%8E%93%20CS%20Educator%20%E2%80%A2%20%E2%9A%A1%20Full%20Stack%20Architect&descAlignY=62&descColor=F0F9FF&descSize=20&v=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,20:1E1B4B,45:4338CA,70:06B6D4,100:3B82F6&height=280&section=header&text=%E2%9A%A1%20Runesh%20Bhardwaj&fontSize=54&fontColor=38BDF8&fontAlignY=36&fontFamily=Montserrat&animation=fadeIn&desc=%F0%9F%A4%96%20AI%20Researcher%20%E2%80%A2%20%F0%9F%8E%93%20CS%20Educator%20%E2%80%A2%20%E2%9A%A1%20Full%20Stack%20Architect&descAlignY=62&descColor=F0F9FF&descSize=20&v=4"/>
 
 <!-- ==================== DYNAMIC TYPING SUBTITLE ==================== -->
 <a href="https://github.com/CaptanJackSparr0w">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=980&lines=%F0%9F%A4%96+Architecting+Autonomous+Agentic+AI+%26+Multi-Agent+Workflows;%F0%9F%8E%93+Assistant+Professor+%E2%80%A2+Teaching+Computer+Science+%26+DevOps;%F0%9F%94%90+Auditing+Blockchain+Smart+Contract+Vulnerabilities+%26+PQC;%E2%9A%A1+Building+High-Performance+Algorithm+Visualizers+%26+Web+Tools;%F0%9F%9A%80+Turning+Deep+Academic+Research+into+Production-Ready+Software&v=3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=980&lines=%F0%9F%A4%96+Architecting+Autonomous+Agentic+AI+%26+Multi-Agent+Workflows;%F0%9F%8E%93+Assistant+Professor+%E2%80%A2+Teaching+Computer+Science+%26+DevOps;%F0%9F%94%90+Auditing+Blockchain+Smart+Contract+Vulnerabilities+%26+PQC;%E2%9A%A1+Building+High-Performance+Algorithm+Visualizers+%26+Web+Tools;%F0%9F%9A%80+Turning+Deep+Academic+Research+into+Production-Ready+Software&v=4" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- ==================== STATUS PILLS ==================== -->
-[![Profile Views](https://komarev.com/ghpvc/?username=CaptanJackSparr0w&style=for-the-badge&color=0284C7&labelColor=030712&label=PROFILE%20VIEWS&v=3)](https://github.com/CaptanJackSparr0w)
+[![Profile Views](https://komarev.com/ghpvc/?username=CaptanJackSparr0w&style=for-the-badge&color=0284C7&labelColor=030712&label=PROFILE%20VIEWS&v=4)](https://github.com/CaptanJackSparr0w)
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/CaptanJackSparr0w?style=for-the-badge&logo=github&color=6366F1&labelColor=030712&label=FOLLOWERS&v=3)](https://github.com/CaptanJackSparr0w?tab=followers)
+[![Followers](https://img.shields.io/github/followers/CaptanJackSparr0w?style=for-the-badge&logo=github&color=6366F1&labelColor=030712&label=FOLLOWERS&v=4)](https://github.com/CaptanJackSparr0w?tab=followers)
 &nbsp;
-[![Repositories](https://img.shields.io/badge/REPOSITORIES-20%2B%20PROJECTS-06B6D4?style=for-the-badge&logo=git&logoColor=white&labelColor=030712&v=3)](https://github.com/CaptanJackSparr0w?tab=repositories)
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-20%2B%20PROJECTS-06B6D4?style=for-the-badge&logo=git&logoColor=white&labelColor=030712&v=4)](https://github.com/CaptanJackSparr0w?tab=repositories)
 &nbsp;
-[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-10B981?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=030712&v=3)](https://github.com/CaptanJackSparr0w)
+[![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-10B981?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=030712&v=4)](https://github.com/CaptanJackSparr0w)
 &nbsp;
-[![Location](https://img.shields.io/badge/LOCATION-HIMACHAL%20PRADESH%2C%20INDIA-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=030712&v=3)](https://maps.google.com/?q=Himachal+Pradesh,+India)
+[![Location](https://img.shields.io/badge/LOCATION-HIMACHAL%20PRADESH%2C%20INDIA-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=030712&v=4)](https://maps.google.com/?q=Himachal+Pradesh,+India)
 
 <br/><br/>
 
 <!-- ==================== QUICK NAV BAR ==================== -->
-| [🚀 Featured Projects](#-featured--active-projects) | [🧠 AI Architecture](#-agentic-ai--systems-architecture) | [🛠️ Tech Ecosystem](#️-technical-ecosystem) | [🔬 Research](#-research--academic-publications) | [📊 Analytics](#-github-analytics--metrics) | [🌐 Connect](#-connect--collaborate) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| [🚀 Featured Projects](#-featured--active-projects) | [🧠 AI Architecture](#-agentic-ai--systems-architecture) | [🛠️ Tech Ecosystem](#️-technical-ecosystem) | [🔬 Research](#-research--academic-publications) | [📊 Analytics](#-github-analytics--metrics) | [🏆 Achievements](#-github-achievements) | [🌐 Connect](#-connect--collaborate) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -195,24 +195,54 @@ timeline
 <div align="center">
 
 <a href="https://github.com/CaptanJackSparr0w">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=CaptanJackSparr0w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=4" alt="GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/CaptanJackSparr0w">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true&v=3" alt="Top Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaptanJackSparr0w&layout=compact&theme=tokyonight&hide_border=true&v=4" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/CaptanJackSparr0w">
-  <img src="https://streak-stats.demolab.com?user=CaptanJackSparr0w&theme=tokyonight&hide_border=true&v=3" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=CaptanJackSparr0w&theme=tokyonight&hide_border=true&v=4" alt="Streak Stats" />
+</a>
+
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/CaptanJackSparr0w?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" height="90" alt="Pull Shark" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/CaptanJackSparr0w?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" height="90" alt="Quickdraw" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/CaptanJackSparr0w?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" height="90" alt="YOLO" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/CaptanJackSparr0w?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" height="90" alt="Pair Extraordinaire" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/CaptanJackSparr0w?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" height="90" alt="Starstruck" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/CaptanJackSparr0w?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90" height="90" alt="Galaxy Brain" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/CaptanJackSparr0w">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=CaptanJackSparr0w&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&v=3" alt="GitHub Trophies" />
-</a>
+[![GitHub Achievements](https://img.shields.io/badge/GitHub-Achievements%20Unlocked-38BDF8?style=flat-square&logo=github&logoColor=white&labelColor=030712)](https://github.com/CaptanJackSparr0w?tab=achievements)
 
 </div>
 
@@ -222,7 +252,7 @@ timeline
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=3" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=4" alt="Dev Quote" />
 
 </div>
 
@@ -260,6 +290,6 @@ timeline
 <br/><br/>
 
 <!-- Footer Waving Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,25:06B6D4,50:4338CA,75:1E1B4B,100:030712&height=150&section=footer&animation=fadeIn&v=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,25:06B6D4,50:4338CA,75:1E1B4B,100:030712&height=150&section=footer&animation=fadeIn&v=4" />
 
 </div>
